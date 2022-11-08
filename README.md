@@ -14,7 +14,7 @@
 
 - 🤝 I'm looking for help with **Finding full-time employment!**
 
-- 👨‍💻 All of my projects are available at [georgehaddad.ca/](https://georgehaddad.ca/)
+- 👨‍💻 All of my projects are available at [georgehaddad.ca](https://georgehaddad.ca)
 
 - 💬 Ask me about **Any of the projects on my github :)**
 
