@@ -6,19 +6,19 @@
 <img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 <br>
 
-- 🔭 I'm currently working on **My React Portfolio**
+- 🔭 I'm currently working as a **Developer at LineZero**
 
 - 🌱 I'm currently learning **React**
 
 - 👯 I'm looking to collaborate on **Full Stack Applications**
 
-- 🤝 I'm looking for help with **Finding full-time employment!**
+- 🤝 I'm looking for help with **VR/AR Development**
 
 - 👨‍💻 All of my projects are available at [georgehaddad.ca](https://georgehaddad.ca)
 
 - 💬 Ask me about **Any of the projects on my github :)**
 
-- 📫 How to reach me **george.haddad77@yahoo.com**
+- 📫 How to reach me **GeorgeHaddadDev@gmail.com**
 
 - ⚡ Fun fact **I love computer hardware, fitness, and basketball**
 
