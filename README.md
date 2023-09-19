@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working as a **Developer at LineZero**
 
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **Azure Cloud Deployment**
 
 - 👯 I'm looking to collaborate on **Full Stack Applications**
 
