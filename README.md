@@ -1,49 +1,63 @@
-<p align="center" width="750"><img alt="coding" width="max" src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif"></p>
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif" alt="Developer Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm George Haddad</h1>
-<h3 align="center">- A passionate Full-Stack Developer from Toronto -</h3>
-<br>
+<h3 align="center">Full Stack Developer | Technical Consultant | Systems Integration Specialist</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
-<br>
+---
 
-- 🔭 I'm currently working as a **Developer at LineZero**
+🎯 **About Me**
 
-- 🌱 I'm currently learning **Azure Cloud Deployment**
+I'm a Toronto-based Full Stack Developer and Technical Consultant with 9+ years of experience across software development, enterprise consulting, and IT integration. I help organizations turn complex business problems into scalable digital solutions — from web apps to cloud-native systems.
 
-- 👯 I'm looking to collaborate on **Full Stack Applications**
+🔹 Currently working with Fortune 500 clients on integration projects at **LineZero (Meta Partner)**  
+🔹 Passionate about **clean architecture**, **cloud infrastructure**, and **user-first software**  
+🔹 Background in **Finance (BBA, CFA L1)** with a focus on the intersection of tech + business  
+🔹 Built a side business generating $800K+ in custom PC sales through hands-on consulting
 
-- 🤝 I'm looking for help with **VR/AR Development**
+---
 
-- 👨‍💻 All of my projects are available at [georgehaddad.ca](https://georgehaddad.ca)
+🧰 **Tech Stack Snapshot**
 
-- 💬 Ask me about **Any of the projects on my github :)**
+**Languages:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 📫 How to reach me **GeorgeHaddadDev@gmail.com**
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-- ⚡ Fun fact **I love computer hardware, fitness, and basketball**
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-<br>
-<br>
-<h3 align="left">Languages:</h3>
-<p align="left">  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-<h3 align="left">Front-end Frameworks/Libraries:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-  
-<h3 align="left">Back-end Frameworks/Runtime Environments:</h3>
-<p align="left"> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-  
+**Cloud / DevOps:**  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-<h3 align="left">Databases:</h3>
-<p align="left"> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+---
+
+📁 **Project Work**
+
+Many of my latest projects are enterprise-grade or client-specific and live in private repositories.  
+If you'd like to see examples of specific types of work — integrations, full-stack apps, automation scripts, or cloud-native deployments — feel free to message me directly.
+
+---
+
+🔗 **Connect With Me**  
+[LinkedIn](https://www.linkedin.com/in/georgehaddad1997/)
+
+---
+
+⚡ **Fun Facts**  
+I’m a huge fan of computer hardware, fitness, and anything basketball. I also believe good coffee and clean code go hand in hand.
