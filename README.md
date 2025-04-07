@@ -13,7 +13,7 @@ I'm a Toronto-based Full Stack Developer and Technical Consultant with 9+ years 
 
 🔹 Currently working with Fortune 500 clients on integration projects at **LineZero (Meta Partner)**  
 🔹 Passionate about **clean architecture**, **cloud infrastructure**, and **user-first software**  
-🔹 Background in **Finance (BBA, CFA L1)** with a focus on the intersection of tech + business  
+🔹 Background in **Finance (BBA, CFA L1, CSC)** with a focus on the intersection of tech + business  
 🔹 Built a side business generating $800K+ in custom PC sales through hands-on consulting
 
 ---
