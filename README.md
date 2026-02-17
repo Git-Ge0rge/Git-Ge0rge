@@ -9,7 +9,7 @@
 
 🎯 **About Me**
 
-I'm a Toronto-based Full Stack Developer and Technical Consultant with 9+ years of experience across software development, enterprise consulting, and IT integration. I help organizations turn complex business problems into scalable digital solutions — from web apps to cloud-native systems.
+I'm a Toronto-based Full Stack Developer and Technical Consultant with 9+ years of experience across software development, enterprise consulting, and IT integration. I help organizations turn complex business problems into scalable digital solutions from web apps to cloud-native systems.
 
 🔹 Currently working with Fortune 500 clients on integration projects at **LineZero (Meta Partner)**  
 🔹 Passionate about **clean architecture**, **cloud infrastructure**, and **user-first software**  
