@@ -14,7 +14,7 @@ I'm a Technical Consultant and Solutions Engineer with a background in business,
 🔹 Senior Technical Consultant at **LineZero** — working on **Workvivo by Zoom** and **Workplace by Meta** platforms  
 🔹 Focus areas: enterprise identity (Entra ID, SAML, SCIM, OAuth2), cloud architecture (Azure), and AI agent design (Claude API, MCP)  
 🔹 Finance background — BBA, CFA Level I, CSC — which shapes how I think about technical problems in a business context  
-🔹 Previously built **George's Custom PCs**: $800K+ in revenue, 5.0 Google rating, 75+ client engagements — no paid acquisition  
+🔹 Previously built **George's Custom PCs**: $800K+ in revenue, 5.0 Google rating on over 90 reviews  
 🔹 Portfolio: [georgehaddad.ca](https://www.georgehaddad.ca)
 
 ---
