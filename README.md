@@ -3,61 +3,82 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm George Haddad</h1>
-<h3 align="center">Full Stack Developer | Technical Consultant | Systems Integration Specialist</h3>
+<h3 align="center">Technical Consultant & Solutions Engineer — Enterprise Integrations, Cloud, Identity, and AI Workflows</h3>
 
 ---
 
 🎯 **About Me**
 
-I'm a Toronto-based Full Stack Developer and Technical Consultant with 9+ years of experience across software development, enterprise consulting, and IT integration. I help organizations turn complex business problems into scalable digital solutions from web apps to cloud-native systems.
+I'm a Technical Consultant and Solutions Engineer with a background in business, finance, and software. I work with Fortune 500 clients on complex integration, identity, and cloud architecture problems — and I build AI-enabled workflows on top of that infrastructure.
 
-🔹 Currently working with Fortune 500 clients on integration projects at **LineZero (Meta Partner)**  
-🔹 Passionate about **clean architecture**, **cloud infrastructure**, and **user-first software**  
-🔹 Background in **Finance (BBA, CFA L1, CSC)** with a focus on the intersection of tech + business  
-🔹 Built a side business generating $800K+ in custom PC sales through hands-on consulting
+🔹 Senior Technical Consultant at **LineZero** — working on **Workvivo by Zoom** and **Workplace by Meta** platforms  
+🔹 Focus areas: enterprise identity (Entra ID, SAML, SCIM, OAuth2), cloud architecture (Azure), and AI agent design (Claude API, MCP)  
+🔹 Finance background — BBA, CFA Level I, CSC — which shapes how I think about technical problems in a business context  
+🔹 Previously built **George's Custom PCs**: $800K+ in revenue, 5.0 Google rating, 75+ client engagements — no paid acquisition  
+🔹 Portfolio: [georgehaddad.ca](https://www.georgehaddad.ca)
 
 ---
 
-🧰 **Tech Stack Snapshot**
+🧰 **Tech Stack**
 
-**Languages:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Languages & Runtimes:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-**Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Identity & Access:**  
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![SAML](https://img.shields.io/badge/SAML%202.0-FF6C37?style=flat&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat&logoColor=white)
+![SCIM](https://img.shields.io/badge/SCIM-6366F1?style=flat&logoColor=white)
+
+**AI & Integrations:**  
+![Claude API](https://img.shields.io/badge/Claude%20API-D97706?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-7C3AED?style=flat&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Cloud / DevOps:**  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+---
+
+🏅 **Certifications**
+
+**Anthropic (2026)**
+- Building with the Claude API
+- Claude Code in Action
+- Introduction to Agent Skills
+- Introduction to Model Context Protocol
+
+**Industry**
+- Solutions Architect Accreditation, Workplace from Meta (2023)
+- CFA Level I, CFA Institute (2019)
+- Bloomberg Analytics Certification (2017)
 
 ---
 
 📁 **Project Work**
 
-Many of my latest projects are enterprise-grade or client-specific and live in private repositories.  
-If you'd like to see examples of specific types of work — integrations, full-stack apps, automation scripts, or cloud-native deployments — feel free to message me directly.
+Most of my client work is enterprise-grade and lives in private repositories. If you want to see examples of specific work — integration architecture, identity and provisioning flows, full-stack apps, AI agent design, or Azure deployments — reach out directly.
 
 ---
 
-🔗 **Connect With Me**  
-[LinkedIn](https://www.linkedin.com/in/georgehaddad1997/)
+🔗 **Connect**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-georgehaddad.ca-6366F1?style=flat)](https://www.georgehaddad.ca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-georgehaddad1997-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgehaddad1997/)
 
 ---
 
-⚡ **Fun Facts**  
-I’m a huge fan of computer hardware, fitness, and anything basketball. I also believe good coffee and clean code go hand in hand.
+⚡ **Outside of work:** hardware, basketball, fitness, and good coffee.
