@@ -3,17 +3,18 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm George Haddad</h1>
-<h3 align="center">Technical Consultant & Solutions Engineer — Enterprise Integrations, Cloud, Identity, and AI Workflows</h3>
+<h3 align="center">Technical Consultant & Solutions Engineer | Enterprise Integrations, Cloud, Identity, and AI Workflows</h3>
 
 ---
 
 🎯 **About Me**
 
-I'm a Technical Consultant and Solutions Engineer with a background in business, finance, and software. I work with Fortune 500 clients on complex integration, identity, and cloud architecture problems — and I build AI-enabled workflows on top of that infrastructure.
+I'm a Technical Consultant and Solutions Engineer with a background in business, finance, and software. I work with hundreds of enterprise clients, including Fortune 100 and Fortune 500 companies, on complex integration, identity, and cloud architecture problems, and I build AI-enabled workflows on top of that infrastructure.
 
-🔹 Senior Technical Consultant at **LineZero** — working on **Workvivo by Zoom** and **Workplace by Meta** platforms  
-🔹 Focus areas: enterprise identity (Entra ID, SAML, SCIM, OAuth2), cloud architecture (Azure), and AI agent design (Claude API, MCP)  
-🔹 Finance background — BBA, CFA Level I, CSC — which shapes how I think about technical problems in a business context  
+🔹 Senior Technical Consultant at **LineZero** (Anthropic partner), working on **Workvivo by Zoom** and **Workplace by Meta** platforms  
+🔹 Building AI and voice agents with **Claude (Anthropic)** and **ElevenLabs**, including MCP integrations and agent tooling  
+🔹 Focus areas: enterprise identity (Entra ID, Okta, SAML, SCIM, OAuth2), cloud architecture (Azure, AWS), and AI agent design  
+🔹 Finance background (BBA, CFA Level I, CSC), which shapes how I think about technical problems in a business context  
 🔹 Previously built **George's Custom PCs**: $800K+ in revenue, 5.0 Google rating on over 90 reviews  
 🔹 Portfolio: [georgehaddad.ca](https://www.georgehaddad.ca)
 
@@ -34,9 +35,11 @@ I'm a Technical Consultant and Solutions Engineer with a background in business,
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logoColor=white)
 
 **Identity & Access:**  
 ![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
 ![SAML](https://img.shields.io/badge/SAML%202.0-FF6C37?style=flat&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat&logoColor=white)
 ![SCIM](https://img.shields.io/badge/SCIM-6366F1?style=flat&logoColor=white)
@@ -44,6 +47,8 @@ I'm a Technical Consultant and Solutions Engineer with a background in business,
 **AI & Integrations:**  
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97706?style=flat&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-7C3AED?style=flat&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
@@ -70,7 +75,7 @@ I'm a Technical Consultant and Solutions Engineer with a background in business,
 
 📁 **Project Work**
 
-Most of my client work is enterprise-grade and lives in private repositories. If you want to see examples of specific work — integration architecture, identity and provisioning flows, full-stack apps, AI agent design, or Azure deployments — reach out directly.
+Most of my client work is enterprise-grade and lives in private repositories. A couple of examples I'm happy to walk through: a self-serve provisioning portal for an enterprise client, and an emergency notification tool I built solo that sends translated SMS/RCS alerts through Twilio and Telnyx. It's run in production on Workplace by Meta for hurricane warnings, and I'm now bringing it to Workvivo. For anything else (integration architecture, identity and provisioning flows, full-stack apps, AI agent design, or Azure deployments), reach out directly.
 
 ---
 
@@ -81,4 +86,4 @@ Most of my client work is enterprise-grade and lives in private repositories. If
 
 ---
 
-⚡ **Outside of work:** hardware, basketball, fitness, and good coffee.
+⚡ **Outside of work:** hardware, biking, hockey, fitness, and good coffee.
